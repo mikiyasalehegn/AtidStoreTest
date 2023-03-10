@@ -1,6 +1,6 @@
 
 # Automation Test For Atidstore
-The project is about preparing an automation test framework for Atidstore, which is an e-commerce demo website with multiple electronic devices. The framework consists of several tests that examine different features of the websites. 
+The project is about preparing an automation test framework for Atidstore, which is an e-commerce demo website with different closes, shoes, and jewelries. The framework consists of several tests that examine different features of the websites. 
 
 
 
